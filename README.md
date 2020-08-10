@@ -66,5 +66,5 @@ This is not on the PDF but is a requirement by the grading scale.
     < 1 second -> 5 pt
 
 Ours scores 0.00s in both cases so we got max score on this part.
-
+***
 Special thanks to my partner mcathery
